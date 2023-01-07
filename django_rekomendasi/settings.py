@@ -26,7 +26,7 @@ SECRET_KEY = "DyLh^Qq&FlaHpZ45dDZpb8vZ4OAi9c0J41FP8P8en!xg4Q8HfL"
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '*',
+    'recapp.up.railway.app'
 ]
 
 SESSION_COOKIE_SECURE = True
