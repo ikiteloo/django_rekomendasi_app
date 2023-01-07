@@ -5,4 +5,3 @@ scikit_learn
 gunicorn
 whitenoise
 openpyxl
-Django-heroku
